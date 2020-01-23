@@ -27,6 +27,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### Notes
 Just like with last week's project, the emulation of a virtual android device is unreliable at best and crashes/fails to load ot begin with on my current computer. Following the guide for using my personal Android device instead to run the app and make a video walkthrough on it proved just as innefective. I am constantly working to resolve this issue, but I have yet to emulate the app.
 I was able to succesfully boot the virtual device a single time. However, the Flix app was not loaded onto the device. Attempting to restart the virtual device merely put me back at square one: unable to boot the virtual Pixel phone.
+
+*UPDATE*
+I was able to properly load the emulator, after much deliberation and the use of every remaining ounce of patience in my body, and record a gif of the user stories to push to the repository and the readme.  
 ### Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
