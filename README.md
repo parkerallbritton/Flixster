@@ -22,7 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-Unavailable, yet again. Hopefully unit 2 will not lack a video/GIF walkthrough. Overcoming hardware issues and AVD emulation is an ongoing struggle.
+<img src="walkthrough.gif", width=400 />
 
 ### Notes
 Just like with last week's project, the emulation of a virtual android device is unreliable at best and crashes/fails to load ot begin with on my current computer. Following the guide for using my personal Android device instead to run the app and make a video walkthrough on it proved just as innefective. I am constantly working to resolve this issue, but I have yet to emulate the app.
